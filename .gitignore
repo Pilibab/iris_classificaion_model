@@ -1,0 +1,22 @@
+# Ignore virtual environment
+/iris_classification_venv
+
+# Ignore dataset folder or files (if not essential for version control)
+/iris data set/
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment config
+.env
+
+# Ignore VSCode settings (if using VSCode)
+.vscode/
+
+# Mac system files (if working across OSes)
+.DS_Store
