@@ -2,8 +2,8 @@
 /iris_classification_venv
 
 # Ignore dataset folder or files (if not essential for version control)
-/iris data set/
-*.csv
+# /iris data set/
+# *.csv
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
